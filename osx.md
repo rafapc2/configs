@@ -30,7 +30,7 @@ brew install --cask the-unarchiver
 brew install --cask authy
 brew install --cask bitwarden
 brew install --cask drawio
-
+brew install --cask pgadmin4
 
 
 brew install --cask anaconda
