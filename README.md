@@ -1,2 +1,2 @@
 # configs
-some configs
+some configs for laptop
