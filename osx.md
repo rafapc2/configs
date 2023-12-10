@@ -1,9 +1,11 @@
 # Config for mac
 
+pasos previos:
 
+```bash
 echo $SHELL
 xcode-select —-install
-
+```
 
 ```bash
 
@@ -24,6 +26,7 @@ brew install --cask anaconda
 brew install --cask visual-studio-code
 brew install git
 brew install git-lfs
+brew install --cask git-credential-manager
 brew install htop
 brew install jq
 brew install --cask docker
