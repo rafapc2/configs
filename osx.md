@@ -5,7 +5,18 @@ pasos previos:
 ```bash
 echo $SHELL
 xcode-select —-install
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+basic 1:
+```bash
+brew install zsh
+brew install git
+brew install git-lfs
+sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+```
+
+basic 2:
 
 ```bash
 
@@ -21,11 +32,9 @@ brew install --cask bitwarden
 brew install --cask drawio
 
 
-brew install zsh
+
 brew install --cask anaconda
 brew install --cask visual-studio-code
-brew install git
-brew install git-lfs
 brew install --cask git-credential-manager
 brew install htop
 brew install jq
