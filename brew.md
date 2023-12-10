@@ -16,6 +16,8 @@ brew install --cask google-drive
 brew install --cask the-unarchiver
 brew install --cask authy
 brew install --cask bitwarden
+brew install --cask drawio
+
 
 brew install zsh
 brew install --cask anaconda
