@@ -66,8 +66,6 @@ brew install --cask vlc
 brew install --cask spotify
 
 brew update
-
-brew list
-brew list > homebrewpackages.txt
-brew cask list
+# execute export
+./export_brew.sh
 ```
