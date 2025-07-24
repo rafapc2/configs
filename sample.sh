@@ -13,6 +13,7 @@ brew install pyenv-virtualenv
 brew install tcptraceroute
 brew install wget
 brew install zsh
+brew install gh
 
 ########### Brew Cask Install List ###########
 brew install --cask anaconda
