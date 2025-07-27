@@ -14,6 +14,7 @@ brew install tcptraceroute
 brew install wget
 brew install zsh
 brew install gh
+brew install fortune
 
 ########### Brew Cask Install List ###########
 brew install --cask anaconda
