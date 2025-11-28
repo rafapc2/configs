@@ -54,6 +54,7 @@ brew install --cask the-unarchiver
 brew install --cask visual-studio-code
 brew install --cask vlc
 brew install --cask zoom
+brew install --cask spotify
 
 ########### Mac App Store Install List ###########
 mas install No  # installed apps found
